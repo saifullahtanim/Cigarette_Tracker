@@ -1,0 +1,6 @@
+[
+  { "step": "Create database tables", "status": "Completed", "time": "Done" },
+  { "step": "Admin Add Cigarette UI", "status": "Completed", "time": "Done" },
+  { "step": "User Cigarette Selection Flow", "status": "Completed", "time": "Done" },
+  { "step": "SweetAlert & Responsive UI", "status": "Completed", "time": "Done" }
+]
